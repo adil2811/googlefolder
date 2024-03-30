@@ -1,0 +1,78 @@
+{
+  "root": {
+    "name": "root",
+    "type": "folder",
+    "children": [
+      {
+        "name": "app",
+        "type": "folder",
+        "children": [
+          {
+            "name": "file1",
+            "type": "file",
+            "size": "106.56MB"
+          },
+          {
+            "name": "file2",
+            "type": "file",
+            "size": "106.56MB"
+          },
+          {
+            "name": "main",
+            "type": "folder",
+            "children": [
+              {
+                "name": "src",
+                "type": "folder",
+                "children": [
+                  {
+                    "name": "file1",
+                    "type": "file",
+                    "size": "106.56MB"
+                  },
+                  {
+                    "name": "file2",
+                    "type": "file",
+                    "size": "106.56MB"
+                  },
+                  {
+                    "name": "main",
+                    "type": "folder",
+                    "children": [
+                      {
+                        "name": "public",
+                        "type": "folder",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "components",
+        "type": "folder",
+        "children": [
+          {
+            "name": "files1",
+            "type": "file",
+            "size": "106MB"
+          },
+          {
+            "name": "files2",
+            "type": "file",
+            "size": "106MB"
+          },
+          {
+            "name": "files3",
+            "type": "file",
+            "size": "106MB"
+          }
+        ]
+      }
+    ]
+  }
+}
